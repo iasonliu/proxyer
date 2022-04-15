@@ -1,3 +1,3 @@
 # HTTP reverse proxy
 
-for learnning
+a rust http reverse proxy for learnning
